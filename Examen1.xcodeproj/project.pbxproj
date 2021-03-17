@@ -16,6 +16,7 @@
 		389AF01F2602715500C2FC59 /* City.swift in Sources */ = {isa = PBXBuildFile; fileRef = 389AF01E2602715500C2FC59 /* City.swift */; };
 		389AF0232602859800C2FC59 /* TempsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 389AF0222602859800C2FC59 /* TempsTableViewController.swift */; };
 		389AF02A26028AAC00C2FC59 /* TempsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 389AF02926028AAC00C2FC59 /* TempsTableViewCell.swift */; };
+		389AF0332602989700C2FC59 /* CityDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 389AF0322602989700C2FC59 /* CityDetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		389AF01E2602715500C2FC59 /* City.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = City.swift; sourceTree = "<group>"; };
 		389AF0222602859800C2FC59 /* TempsTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TempsTableViewController.swift; sourceTree = "<group>"; };
 		389AF02926028AAC00C2FC59 /* TempsTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TempsTableViewCell.swift; sourceTree = "<group>"; };
+		389AF0322602989700C2FC59 /* CityDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CityDetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +73,7 @@
 				389AF01226026E4800C2FC59 /* Info.plist */,
 				389AF0222602859800C2FC59 /* TempsTableViewController.swift */,
 				389AF02926028AAC00C2FC59 /* TempsTableViewCell.swift */,
+				389AF0322602989700C2FC59 /* CityDetailViewController.swift */,
 			);
 			path = Examen1;
 			sourceTree = "<group>";
@@ -157,6 +160,7 @@
 				389AF01F2602715500C2FC59 /* City.swift in Sources */,
 				389AF00526026E4600C2FC59 /* AppDelegate.swift in Sources */,
 				389AF01B2602713E00C2FC59 /* Temperature.swift in Sources */,
+				389AF0332602989700C2FC59 /* CityDetailViewController.swift in Sources */,
 				389AF00726026E4600C2FC59 /* SceneDelegate.swift in Sources */,
 				389AF0232602859800C2FC59 /* TempsTableViewController.swift in Sources */,
 				389AF02A26028AAC00C2FC59 /* TempsTableViewCell.swift in Sources */,
